@@ -3,4 +3,9 @@ To achieve the goals for the swiss energy strategy we must increase sustainable 
 
 To identify the most important factors influencing sustainable development at the community level, we enriched the Energy Reporter (https://ory.short.gy/energiereporter) dataset with additional data (socio-demographic, weather, topographic, infrastructure, political and electricity-costs). Thus, using different statistical and machine-learning methods, we can show how the expansion of PV, sustainable heating and electric mobility depends on different socio-demographic factors, on the existing infrastructure, on the weather and on the electricity price.
 
+Notebookes:
+1. Data cleaning (DJ_EDA.ipynb, ollie_notebook.ipynb) 
+2. Spatial map (spatial.ipynb)
+3. Modelling (OP_final.ipynb, DJ_final)
 Presentation link: https://ory.short.gy/02presentation
+For any questions please contact me (dylan@turkjohnson.com) or ollie (oliverjpaul@gmail.com) 
